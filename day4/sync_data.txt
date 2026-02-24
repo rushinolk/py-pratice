@@ -1,0 +1,3 @@
+Missão: Estudar Python | XP: 76
+Missão: Escrever roteiro | XP: 141
+Missão: Limpar o quintal | XP: 141
