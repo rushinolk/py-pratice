@@ -1,0 +1,12 @@
+
+[SISTEMA INICIADO].
+Erro de leitura de pacotes... 0x88A.
+[LOG] Aventureiro: Arthur abateu Slime.
+[WARN] Aventureiro: Leon abateu Orc.
+Rede instável... reconectando.
+[LOG] Aventureiro: Arthur abateu Dragao.
+[ERROR] Aventureiro: Claire abateu Troll.
+Lixo de rede: x889912.
+[LOG] Aventureiro: Leon abateu Lobo.
+[LOG] Aventureiro: Arthur abateu Goblin.
+[SISTEMA OFFLINE]
