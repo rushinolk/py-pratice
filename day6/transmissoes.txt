@@ -1,0 +1,8 @@
+
+[ESTATICA]... Socorro! Setor Oeste comprometido.
+Oficial abatido. Distintivo: 8820. Requer evacuação!
+[RUIDO]... Criaturas no saguão...
+Múltiplas baixas. Distintivo: 7730 sem sinal.
+[ESTATICA]... Porta principal trancada... Distintivo: 6640 não responde.
+Aviso de falha no sistema elétrico.
+[RUIDO]... Fuga pela garagem falhou... Distintivo: 9910. Infecção confirmada.
