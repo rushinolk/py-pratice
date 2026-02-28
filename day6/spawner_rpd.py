@@ -11,7 +11,7 @@ banco_rh = {
 
 try:
     with open("day6\\banco_rh.json","w",encoding="utf-8") as file:
-        json.dump(banco_rh,file)
+        json.dump(banco_rh,file,indent=4,ensure_ascii=False)
     print("Arquivo JSON criado com sucesso")
 except FileNotFoundError as e:
     print(f"Pasta do arquivo não encontrado: {e}")
